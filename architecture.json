@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_absurdist_love_mortality",
+  "title": "The Paperwork of Lethe",
+  "tagline": "Two souls denied the afterlife by divine bureaucracy must find meaning in love before their files are permanently lost.",
+  "target_words": 70000,
+  "actual_words": 72271,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Divine Bureaucracy as Absurdist Hell",
+    "Love as Unfinished Business in the Afterlife",
+    "Finding Meaning in Meaningless Death",
+    "The Comedy of Ancient Greek Paperwork"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Swan Form (17-B)",
+      "words": 3010
+    },
+    {
+      "ch": 2,
+      "title": "The Shade with One Good Line",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "Philomela's Incomplete Strangulation",
+      "words": 2980
+    },
+    {
+      "ch": 4,
+      "title": "The Queue That Never Moves",
+      "words": 3005
+    },
+    {
+      "ch": 5,
+      "title": "A Symposium of Specters",
+      "words": 3020
+    },
+    {
+      "ch": 6,
+      "title": "The Lost Amphora of Lykos",
+      "words": 2995
+    },
+    {
+      "ch": 7,
+      "title": "Haunting Without a Permit",
+      "words": 3012
+    },
+    {
+      "ch": 8,
+      "title": "The Laurel Tree Still Whispers",
+      "words": 2988
+    },
+    {
+      "ch": 9,
+      "title": "Petitioning the Three-Headed Clerk",
+      "words": 3025
+    },
+    {
+      "ch": 10,
+      "title": "The Memory of Lentil Soup",
+      "words": 2990
+    },
+    {
+      "ch": 11,
+      "title": "A Dance on the Banks of Acheron",
+      "words": 3018
+    },
+    {
+      "ch": 12,
+      "title": "When Hypnos Finally Wakes",
+      "words": 3000
+    },
+    {
+      "ch": 13,
+      "title": "The Misplaced File of Eros",
+      "words": 3022
+    },
+    {
+      "ch": 14,
+      "title": "Building a Boat from Bureaucracy",
+      "words": 2995
+    },
+    {
+      "ch": 15,
+      "title": "The Goat That Ate an Epic",
+      "words": 3010
+    },
+    {
+      "ch": 16,
+      "title": "An Audience with Ate, Goddess of Folly",
+      "words": 3030
+    },
+    {
+      "ch": 17,
+      "title": "The Stygian Staff Meeting",
+      "words": 2985
+    },
+    {
+      "ch": 18,
+      "title": "Love as a Form of Protest",
+      "words": 3025
+    },
+    {
+      "ch": 19,
+      "title": "The Quarterly Report of the Fates",
+      "words": 3015
+    },
+    {
+      "ch": 20,
+      "title": "A Fig Leaf's Second Act",
+      "words": 2992
+    },
+    {
+      "ch": 21,
+      "title": "Crossing the River Without a Coin",
+      "words": 3035
+    },
+    {
+      "ch": 22,
+      "title": "The Last Line of the Epic",
+      "words": 3010
+    },
+    {
+      "ch": 23,
+      "title": "Where the Waiting Souls Go",
+      "words": 3028
+    },
+    {
+      "ch": 24,
+      "title": "The Grace in the Stupidity",
+      "words": 3040
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Charon, the overworked ferryman, dealing with a sudden influx of souls killed by a new plague of 'divinely inspired bad poetry'.",
+      "Create a side-story about Sostratos, the shade with one good line, and his centuries-long attempt to reconstruct his lost epic from the fragmented memories of other souls.",
+      "Draft a scene where Philomela successfully haunts her murderer's wedding, but finds the experience underwhelming and bureaucratically complex.",
+      "Write a 'prequel' vignette showing the moment of Ariston's death-by-swan from the swan's absurd, divinely-mandated perspective."
+    ],
+    "technical": [
+      "Build an interactive 'Underworld Bureaucracy Simulator' where players must navigate souls through the correct filing process to get them across the river.",
+      "Create a visualization of the 'Queue of Acheron,' showing the ever-changing, never-advancing wait times for different causes of death using real-time data."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Albert Camus",
+      "Aristophanes",
+      "Sappho",
+      "Franz Kafka"
+    ]
+  },
+  "cover_prompt": "Two souls, a man and a woman in simple classical chitons, desperately sorting through an infinite, collapsing mountain of papyrus scrolls and clay tablets in a vast, absurdist bureaucratic hall of the afterlife, their hands stained with ink and dust as they search for their own lost files amidst the chaos, in the atmospheric style of Giorgio de Chirico's metaphysical melancholy and the surreal, dreamlike absurdity of René Magritte, book cover framing, centered composition with a dramatic low-angle shot looking up at the towering, impossible stacks of paperwork under a stark, architectural sky, dramatic chiaroscuro lighting with long, sharp shadows cutting through the dusty air, using a palette of desaturated sepia, parchment yellow, ash grey, and the faintest blush of rose on their cheeks, masterpiece, best quality, ultra detailed, intricate details of crumbling papyrus and wax seals, professional composition, sharp focus, 8k resolution, flux dev"
+}
