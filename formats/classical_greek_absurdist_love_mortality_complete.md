@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The man was trying to die, but the bureaucracy was taking forever. Charon, the ferryman, had his feet up on the gunwale of his skiff, polishing a coin with the hem of his robe and squinting at a papyrus scroll.
@@ -150,6 +152,8 @@ He took her offered hand. Her grip was like holding a cold, determined wind.
 
 Together, they turned their backs on the ferryman and the stagnant river, and began to climb the path of the daimons, two unprocessed dead, walking out of the underworld’s back door.
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The path was not a path. It was the suggestion of one, a faint impression in the psychic gravel that seemed to remember being walked upon. It wound up through a landscape of grey scree and spectral, leafless shrubs that trembled when you weren't looking at them. The light was sourceless and flat, casting no shadows, which made the climb feel like a treadmill in a dream.
@@ -272,6 +276,8 @@ He took a step toward the olive tree. Then another. He braced himself for impact
 He was no longer a man, nor a proper shade. He was something in between. He was a loophole. And, for the first time since the swan fell, he felt a flicker of something that was not confusion or despair.
 
 It was the beginning of a plot.
+
+# Chapter 3
 
 ## **Chapter 3**
 
